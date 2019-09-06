@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohbasai.sosonkin.com/sitemap.xml
